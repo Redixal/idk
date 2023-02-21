@@ -1,0 +1,6 @@
+mods/data/ghostlab/ghostlab-hard.json
+mods/data/ghostlab/ghostlab-nolag.json
+mods/songs/ghostlab/Voices.ogg
+mods/songs/ghostlab/Inst.ogg
+mods/songs/ghostlab/voices.ogg
+mods/songs/ghostlab/inst.ogg
